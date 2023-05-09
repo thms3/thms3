@@ -8,3 +8,5 @@ Young bioinformatics engineer and eager to learn. I am gradually specializing in
 | Name          | Description                                                                                     |
 | ------------- | ----------------------------------------------------------------------------------------------- |
 | DESeq wrapper | wrapper functions to simplify the implementation of differential expression analysis with DESeq |
+
+[DESeq wrapper] https://github.com/thms3/DESeq_wrapper
