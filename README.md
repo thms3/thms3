@@ -5,7 +5,6 @@ Young bioinformatics engineer and eager to learn. I am gradually specializing in
 
 ## Projects
 
-| Name  | Description |
-| ------------- | ------------- |
+| Name          | Description                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------------- |
 | DESeq wrapper | wrapper functions to simplify the implementation of differential expression analysis with DESeq |
-| Content Cell  | Content Cell  |
