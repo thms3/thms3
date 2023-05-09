@@ -5,6 +5,8 @@ Young bioinformatics engineer and eager to learn. I am gradually specializing in
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| - [ ] Javascript|
+|     1| Javascript|
 |     2| Python    |
 |     3| SQL       |
+
+ - [ ] Javascript
