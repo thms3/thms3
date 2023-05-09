@@ -1,1 +1,1 @@
-# thms3
+# Thomas Neff: passionnate bioinformatician
