@@ -16,3 +16,5 @@ Young bioinformatics engineer and eager to learn. I am gradually specializing in
 [edgeR_plot_post](https://github.com/thms3/edgeR_plot_post): conversion of plot edgeR into object ggplot with the addition of visualization of selected genes to allow a posteriori evaluation of results 
 
 [meanSdPlot_post](https://github.com/thms3/meanSdPlot_post): wrapper of the vsn:meanSdPlot function with the addition of a selected gene visualization 
+
+[annotation_bulk](https://github.com/thms3/annotation_bulk): functions to annotate bulk RNAseq datasets from the annotationhub package which allows to keep the gene or transcript annotation files up to date 
